@@ -1,7 +1,7 @@
 # Turbo-Racing-101
 A racing game (Ongoing)
 
-An PC racing game.
+A PC racing game.
 The objective of game is to compete with the other multiple opponents that are controlled by computer in a racing tournament,
 the player’s goal is to get to the destination as soon as possible while trying to avoid bumping to other cars or road object.
 Language and Technologies used: C#, Unity3D, Visual Studio
