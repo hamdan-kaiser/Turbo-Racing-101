@@ -1,5 +1,5 @@
 # Turbo-Racing-101
-An android mobile racing game (Ongoing)
+A racing game (Ongoing)
 
 An Android mobile racing game.
 The objective of game is to compete with the other multiple opponents that are controlled by computer in a racing tournament,
