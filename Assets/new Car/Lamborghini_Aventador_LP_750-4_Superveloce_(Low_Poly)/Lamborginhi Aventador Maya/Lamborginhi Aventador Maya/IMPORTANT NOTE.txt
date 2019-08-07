@@ -1,0 +1,3 @@
+NOTES: 
+-Be sure to take render from render_camera in maya scene.
+-Turn off View Transform (color management) on Render View window (for 2017 version of maya)
